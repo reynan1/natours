@@ -1,0 +1,29 @@
+/* SCSS ABSTRACT FOLDER IMPORT */
+@import "./abstracts/functions";
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+/* SCSS BASE FOLDER IMPORT */
+@import "./base/animations";
+@import "./base/base";
+@import "./base/typography";
+@import "./base/utilities";
+
+/* SCSS COMPONENTS FOLDER IMPORT */
+@import "./components/bg-video";
+@import "./components/button";
+@import "./components/card";
+@import "./components/composition";
+@import "./components/feature-box";
+@import "./components/story";
+@import "./components/form";
+@import "./components/popup";
+
+/* SCSS LAYOUT FOLDER IMPORT */
+@import "./layout/header";
+@import "./layout/navigation";
+@import "./layout/grid";
+@import "./layout/footer";
+
+/* SCSS PAGES FOLDER IMPORT */
+@import "./pages/home";
